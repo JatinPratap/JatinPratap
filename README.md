@@ -10,13 +10,13 @@
 
 👀 My skill set 🔧🛠 
 
-Sales , Marketing & Strategic Planning
-Natural Language Processing
-Project management $ Business Development
-Data visualization
-Machine learning
-Business Analysis
-Public Speaking
+⚡Sales , Marketing & Strategic Planning
+⚡Natural Language Processing
+⚡Project management $ Business Development
+⚡Data visualization
+⚡Machine learning
+⚡Business Analysis
+⚡Public Speaking
 
 💞️ I’m looking to collaborate on ...
 
